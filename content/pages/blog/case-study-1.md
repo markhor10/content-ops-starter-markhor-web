@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: case-study-1
-date: '0002-02-22'
+date: '2020-02-22'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
