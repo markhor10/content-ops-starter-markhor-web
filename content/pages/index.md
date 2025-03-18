@@ -95,7 +95,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: markhor washing powder
+      - title: ''
         subtitle: ''
         text: "### **Markhor Washing Powder – Powerful Clean, Gentle on Fabrics!**\n\n\U0001F300 **Deep Cleaning Formula** – Removes tough stains effortlessly\n\n\U0001F33F **Gentle on Clothes** – Protects fabric while keeping colors bright\n\n✨ **Long-Lasting Freshness** – Leaves laundry smelling fresh all day\n\n**Markhor Washing Powder – A New Standard in Clean!** \U0001F499\U0001F525\n\n"
         image:
