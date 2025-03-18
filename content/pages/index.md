@@ -739,11 +739,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 24/7 available
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "### **Contact Us & Share Your Feedback!** \U0001F4E9✨\n\nWe’d love to hear from you! Whether you have a question, need support, or want to share your experience with **Markhor Cosmetics Products**, we’re here for you.\n\n\U0001F4DE **Get in Touch** – We value your inquiries.\n\n\U0001F4AC **Share Your Feedback** – Your opinion helps us grow!\n\n**Contact us today – Your voice matters!** \U0001F680\n\n"
     media:
       fields:
         - name: name
