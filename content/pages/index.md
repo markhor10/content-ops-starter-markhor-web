@@ -88,7 +88,10 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/e1a7daf1-fbe7-4448-8403-6d00d1ebbb81.webp
+          url: >-
+            /images/DALL·E 2025-03-17 21.13.38 - A simple and elegant product
+            image of 'Markhor Soap' in a white box with a minimalist square
+            design. The packaging features a clean and modern aesthet.webp
           styles:
             self:
               borderRadius: x-large
