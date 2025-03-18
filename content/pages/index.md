@@ -381,7 +381,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - subtitle: Increase your reach
+  - subtitle: join us for better future and better products
     text: ''
     actions:
       - label: See Tutorials
