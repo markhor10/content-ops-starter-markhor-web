@@ -181,8 +181,7 @@ sections:
           design. The packaging features a clean and modern aesthet.webp
         altText: markhorsoap
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
