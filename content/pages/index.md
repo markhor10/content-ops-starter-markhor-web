@@ -154,7 +154,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: we provide the best quality products
       color: text-primary
       styles:
         self:
