@@ -67,7 +67,7 @@ sections:
     subtitle: our products
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 'markhor soap '
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
