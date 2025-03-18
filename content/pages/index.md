@@ -384,7 +384,7 @@ sections:
   - subtitle: join us for better future and better products
     text: ''
     actions:
-      - label: See Tutorials
+      - label: ''
         url: /
         showIcon: true
         icon: arrowRight
