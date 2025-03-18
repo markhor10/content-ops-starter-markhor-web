@@ -7,7 +7,7 @@ sections:
       text: "\"Healthy skin isn’t a miracle, it’s a commitment—treat it with love every day.\" \U0001F33F\U0001F486‍♀️"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Radiant skin starts from within—hydrate, nourish, and let your beauty shine.\" \U0001F31F\U0001F4A6"
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
