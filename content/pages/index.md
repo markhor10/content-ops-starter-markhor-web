@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: link to our products
         showIcon: true
         icon: arrowRight
         iconPosition: right
