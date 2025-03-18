@@ -364,7 +364,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: 'we serve the best at your doorstep '
+      text: ''
       color: text-dark
       styles:
         self:
