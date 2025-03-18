@@ -68,7 +68,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'markhor soap '
-        subtitle: Numbers Done
+        subtitle: with skin care and best result
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
