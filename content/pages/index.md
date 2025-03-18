@@ -15,7 +15,7 @@ sections:
     actions:
       - label: shop now
         altText: ''
-        url: /
+        url: markhorcosmatic.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
