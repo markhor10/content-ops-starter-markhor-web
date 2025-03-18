@@ -31,8 +31,8 @@
         },
         {
             "label": "",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
