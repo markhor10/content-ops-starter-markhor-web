@@ -228,7 +228,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-    showExcerpt: false
+    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
