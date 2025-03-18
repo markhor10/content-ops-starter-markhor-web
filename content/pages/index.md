@@ -274,7 +274,7 @@ sections:
     items:
       - type: FeaturedItem
         title: markhor soap
-        subtitle: 250 to only
+        subtitle: 250 to only R
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
