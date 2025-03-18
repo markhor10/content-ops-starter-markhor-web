@@ -69,10 +69,7 @@ sections:
       - type: FeaturedItem
         title: 'markhor soap '
         subtitle: with skin care and best result
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "### **Markhor Soap – Pure Luxury for Your Skin** \U0001F9FC✨\n\nExperience the **gentle touch of nature** with **Markhor Soap**, crafted with **premium ingredients** to cleanse, nourish, and refresh your skin. Designed for **daily care**, it leaves your skin feeling **soft, hydrated, and revitalized**.\n\n\n\n"
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
