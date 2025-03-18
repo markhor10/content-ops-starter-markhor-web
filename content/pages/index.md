@@ -179,7 +179,7 @@ sections:
           /images/DALL·E 2025-03-17 21.13.38 - A simple and elegant product
           image of 'Markhor Soap' in a white box with a minimalist square
           design. The packaging features a clean and modern aesthet.webp
-        altText: Empathy logo
+        altText: markhorsoap
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
