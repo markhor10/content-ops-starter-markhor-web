@@ -330,7 +330,7 @@ sections:
           self:
             flexDirection: row
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: dishwasher
         subtitle: $117
         image:
           type: ImageBlock
