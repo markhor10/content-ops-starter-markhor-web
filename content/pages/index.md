@@ -331,7 +331,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: dishwasher
-        subtitle: $117
+        subtitle: Rs 600
         image:
           type: ImageBlock
           url: >-
