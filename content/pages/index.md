@@ -58,7 +58,7 @@ sections:
         textDecoration: underline
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'approved by dermatologist '
       color: text-dark
       styles:
         self:
