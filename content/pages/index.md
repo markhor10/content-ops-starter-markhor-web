@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "\"Healthy skin isn’t a miracle, it’s a commitment—treat it with love every day.\" \U0001F33F\U0001F486‍♀️"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
