@@ -196,8 +196,7 @@ sections:
           /images/DALL·E 2025-03-17 21.16.35 - A premium product image of
           'Markhor Washing Powder' in a high-quality, modern package. The
           packaging is designed with a fresh and clean aesthetic, fea.webp
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
