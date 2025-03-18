@@ -183,7 +183,10 @@ sections:
         type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: >-
+          /images/DALL·E 2025-03-17 21.19.05 - A premium product image of
+          'Markhor Dishwasher' detergent in a sleek and modern packaging. The
+          design features a bold Markhor logo with a clean and fr.webp
         altText: Vise logo
         type: ImageBlock
       - altText: Telus logo
