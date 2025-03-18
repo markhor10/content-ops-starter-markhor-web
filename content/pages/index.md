@@ -459,10 +459,7 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: ''
         subtitle: smiceT1
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "SmiceT1 is a modern brand dedicated to sleek, minimalist, and high-quality designs. Whether in fashion, tech, or lifestyle, we bring sophistication and functionality together. Elevate your style with SmiceT1 – designed for those who appreciate elegance in every detail. \U0001F680✨\n"
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
