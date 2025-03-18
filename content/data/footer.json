@@ -42,6 +42,13 @@
             "elementId": ""
         },
         {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/markhorbeauty.com",
+            "icon": "youtube",
+            "elementId": ""
+        },
+        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
