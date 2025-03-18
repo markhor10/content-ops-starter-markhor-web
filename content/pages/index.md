@@ -265,7 +265,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: 'we serve the best at your doorstep '
       color: text-dark
       styles:
         self:
