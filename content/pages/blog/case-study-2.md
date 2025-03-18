@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: ''
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
@@ -8,7 +8,10 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: >-
+    /images/DALL·E 2025-03-17 21.28.44 - A high-quality image of fine washing
+    powder falling from above onto the ground. The powder is bright white with
+    small blue granules, representing deep.webp
   altText: Case study 2
   styles:
     self:

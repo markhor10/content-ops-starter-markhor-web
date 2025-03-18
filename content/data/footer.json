@@ -1,47 +1,21 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/DALL·E 2025-03-17 21.58.49 - A modern, minimalistic logo of a rabbit facing to the right. The design should be sleek and simple, with smooth curves and a professional look. The ra.webp",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "```\n     designed by SmiceT1\n  web designer and creator \n\n```\n\n",
     "primaryLinks": {
         "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Markhor Company by JBT",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
+                "label": "business of chemical and cosmatics",
+                "altText": "",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -49,7 +23,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "own company holders",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -61,26 +35,22 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/markhorbeauty.com",
+            "icon": "facebook",
+            "elementId": ""
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/markhorbeauty.com",
+            "icon": "youtube",
+            "elementId": ""
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/sparkocobeautysoap@gmail.com",
             "icon": "mail",
             "type": "Social"
         }

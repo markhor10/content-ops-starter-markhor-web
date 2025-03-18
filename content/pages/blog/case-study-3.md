@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: ''
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
@@ -9,7 +9,9 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: >-
-    /images/img-placeholder.svg
+    /images/DALL·E 2025-03-17 21.28.01 - A high-quality close-up image of
+    'Markhor Detergent' liquid. The liquid is a rich, smooth, and glossy texture
+    with a vibrant blue color, representing .webp
   altText: Case study 3
   styles:
     self:

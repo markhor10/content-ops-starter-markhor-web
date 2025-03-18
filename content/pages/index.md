@@ -1,21 +1,21 @@
 ---
-title: Home
+title: markhor cosmatics
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "\"Healthy skin isn’t a miracle, it’s a commitment—treat it with love every day.\" \U0001F33F\U0001F486‍♀️"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Radiant skin starts from within—hydrate, nourish, and let your beauty shine.\" \U0001F31F\U0001F4A6"
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: click
         altText: ''
-        url: /
+        url: markhorcosmatic.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: link to our products
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -32,12 +32,15 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/DALL·E 2025-03-17 20.57.31 - A sleek and modern logo featuring a
+        stylized Markhor, the national animal of Pakistan, designed with a
+        minimalistic and luxurious aesthetic. The logo .webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'Markhor cosmetics '
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,26 +54,25 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        textDecoration: underline
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'approved by dermatologist '
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: our products
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: ''
+        subtitle: ''
+        text: "### **Markhor Soap – Pure Luxury for Your Skin** \U0001F9FC✨\n\nExperience the **gentle touch of nature** with **Markhor Soap**, crafted with **premium ingredients** to cleanse, nourish, and refresh your skin. Designed for **daily care**, it leaves your skin feeling **soft, hydrated, and revitalized**.\n\n\n\n"
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -86,18 +88,21 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: >-
+            /images/DALL·E 2025-03-17 21.13.38 - A simple and elegant product
+            image of 'Markhor Soap' in a white box with a minimalist square
+            design. The packaging features a clean and modern aesthet.webp
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: ''
+        subtitle: ''
+        text: "### **Markhor Washing Powder – Powerful Clean, Gentle on Fabrics!**\n\n\U0001F300 **Deep Cleaning Formula** – Removes tough stains effortlessly\n\n\U0001F33F **Gentle on Clothes** – Protects fabric while keeping colors bright\n\n✨ **Long-Lasting Freshness** – Leaves laundry smelling fresh all day\n\n**Markhor Washing Powder – A New Standard in Clean!** \U0001F499\U0001F525\n\n"
         image:
-          url: /images/icon2.svg
+          url: >-
+            /images/DALL·E 2025-03-17 21.16.35 - A premium product image of
+            'Markhor Washing Powder' in a high-quality, modern package. The
+            packaging is designed with a fresh and clean aesthetic, fea.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -115,14 +120,14 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: ''
+        subtitle: ''
+        text: "### **Markhor Dishwasher – Sparkling Clean, Every Time!**\n\n\U0001F37D **Powerful Grease Removal** – Cuts through tough stains effortlessly\n\n✨ **Streak-Free Shine** – Leaves dishes spotless and sparkling\n\n\U0001F33F **Gentle on Hands** – Tough on grease, but safe for everyday use\n\n**Markhor Dishwasher – Clean Beyond Expectations!** \U0001F499\U0001F525\n\n\n\n"
         image:
-          url: /images/icon3.svg
+          url: >-
+            /images/DALL·E 2025-03-17 21.19.05 - A premium product image of
+            'Markhor Dishwasher' detergent in a sleek and modern packaging. The
+            design features a bold Markhor logo with a clean and fr.webp
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -139,9 +144,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: buy now
         altText: ''
-        url: /
+        url: /buy markhor products
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -149,7 +154,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: we provide the best quality products
       color: text-primary
       styles:
         self:
@@ -168,28 +173,33 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: everyone's choice
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: >-
+          /images/DALL·E 2025-03-17 21.13.38 - A simple and elegant product
+          image of 'Markhor Soap' in a white box with a minimalist square
+          design. The packaging features a clean and modern aesthet.webp
+        altText: markhorsoap
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: >-
+          /images/DALL·E 2025-03-17 21.19.05 - A premium product image of
+          'Markhor Dishwasher' detergent in a sleek and modern packaging. The
+          design features a bold Markhor logo with a clean and fr.webp
+        altText: ''
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: ''
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+        url: >-
+          /images/DALL·E 2025-03-17 21.16.35 - A premium product image of
+          'Markhor Washing Powder' in a high-quality, modern package. The
+          packaging is designed with a fresh and clean aesthetic, fea.webp
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -204,8 +214,8 @@ sections:
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
-    showDate: true
-    showAuthor: true
+    showDate: false
+    showAuthor: false
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -218,6 +228,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    showExcerpt: false
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,40 +240,16 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: ''
+    text: "### **Buy Now – Don’t Miss Your Chance!** \U0001F6D2✨\n\nGet your hands on **Markhor’s premium products** today! Experience **top-quality cleaning and skincare** designed just for you.\n\n\U0001F680 **Limited Stock – Order Now!**\n\n\U0001F31F **Quality You Can Trust**\n\n**Don’t wait – grab yours before it’s gone!** \U0001F525\n\n\n\n"
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
@@ -276,41 +263,116 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Items on sale
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: markhor soap
+        subtitle: 250 to only Rs 100
+        text: |+
+          buy it now incase if you dont wanna loss the chance 
+
+        image:
+          type: ImageBlock
+          url: >-
+            /images/DALL·E 2025-03-17 21.29.29 - A high-quality image of a bar
+            of soap falling from above, with 'Markhor' engraved on it. The soap
+            has a smooth texture and a luxurious, creamy white c.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: washing powder
+        subtitle: only Rs only 1200
+        image:
+          type: ImageBlock
+          url: >-
+            /images/DALL·E 2025-03-17 21.16.35 - A premium product image of
+            'Markhor Washing Powder' in a high-quality, modern package. The
+            packaging is designed with a fresh and clean aesthetic, fea.webp
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+      - type: FeaturedItem
+        title: dishwasher
+        subtitle: Rs 600
+        image:
+          type: ImageBlock
+          url: >-
+            /images/DALL·E 2025-03-17 21.19.05 - A premium product image of
+            'Markhor Dishwasher' detergent in a sleek and modern packaging. The
+            design features a bold Markhor logo with a clean and fr.webp
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: ''
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -319,22 +381,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+  - subtitle: join us for better future and better products
+    text: ''
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
+      - label: ''
         url: /
         showIcon: true
         icon: arrowRight
@@ -342,11 +392,10 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -363,7 +412,7 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get started
+      - label: click
         url: /
         icon: arrowRight
         iconPosition: right
@@ -377,7 +426,10 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/DALL·E 2025-03-17 20.55.54 - A modern and professional logo
+        featuring a stylized Markhor, the national animal of Pakistan,
+        integrated with a sleek and elegant design. The logo sho.webp
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -407,14 +459,14 @@ sections:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        tagline: ''
+        subtitle: smiceT1
+        text: "SmiceT1 is a modern brand dedicated to sleek, minimalist, and high-quality designs. Whether in fashion, tech, or lifestyle, we bring sophistication and functionality together. Elevate your style with SmiceT1 – designed for those who appreciate elegance in every detail. \U0001F680✨\n"
         image:
-          url: /images/person-placeholder-light.png
+          url: >-
+            /images/DALL·E 2025-03-17 21.58.12 - A modern, minimalistic logo of
+            a rabbit. The design should be sleek and simple, with smooth curves
+            and a professional look. The rabbit should be styli.webp
           altText: Maria Walters
           styles:
             self:
@@ -435,7 +487,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +517,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +577,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +607,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -589,106 +645,11 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
+      text: Team Markhor
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 24/7 available
+    text: "### **Contact Us & Share Your Feedback!** \U0001F4E9✨\n\nWe’d love to hear from you! Whether you have a question, need support, or want to share your experience with **Markhor Cosmetics Products**, we’re here for you.\n\n\U0001F4DE **Get in Touch** – We value your inquiries.\n\n\U0001F4AC **Share Your Feedback** – Your opinion helps us grow!\n\n**Contact us today – Your voice matters!** \U0001F680\n\n"
     media:
       fields:
         - name: name

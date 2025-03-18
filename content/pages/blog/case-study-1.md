@@ -1,15 +1,18 @@
 ---
-title: Case study 1
+title: ''
 slug: case-study-1
-date: '2022-01-05'
+date: ''
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 1
+  url: >-
+    /images/DALL·E 2025-03-17 21.29.29 - A high-quality image of a bar of soap
+    falling from above, with 'Markhor' engraved on it. The soap has a smooth
+    texture and a luxurious, creamy white c.webp
+  altText: ''
   styles:
     self:
       borderRadius: large
