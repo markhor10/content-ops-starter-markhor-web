@@ -461,7 +461,10 @@ sections:
         subtitle: smiceT1
         text: "SmiceT1 is a modern brand dedicated to sleek, minimalist, and high-quality designs. Whether in fashion, tech, or lifestyle, we bring sophistication and functionality together. Elevate your style with SmiceT1 – designed for those who appreciate elegance in every detail. \U0001F680✨\n"
         image:
-          url: /images/person-placeholder-light.png
+          url: >-
+            /images/DALL·E 2025-03-17 21.58.12 - A modern, minimalistic logo of
+            a rabbit. The design should be sleek and simple, with smooth curves
+            and a professional look. The rabbit should be styli.webp
           altText: Maria Walters
           styles:
             self:
