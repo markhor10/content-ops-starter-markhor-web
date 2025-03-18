@@ -427,7 +427,10 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/DALL·E 2025-03-17 20.57.31 - A sleek and modern logo featuring a
+        stylized Markhor, the national animal of Pakistan, designed with a
+        minimalistic and luxurious aesthetic. The logo .webp
       altText: Dope design preview
       type: ImageBlock
     badge:
