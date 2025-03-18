@@ -121,7 +121,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        subtitle: Faster
+        subtitle: ''
         text: "### **Markhor Dishwasher – Sparkling Clean, Every Time!**\n\n\U0001F37D **Powerful Grease Removal** – Cuts through tough stains effortlessly\n\n✨ **Streak-Free Shine** – Leaves dishes spotless and sparkling\n\n\U0001F33F **Gentle on Hands** – Tough on grease, but safe for everyday use\n\n**Markhor Dishwasher – Clean Beyond Expectations!** \U0001F499\U0001F525\n\n\n\n"
         image:
           url: /images/icon3.svg
