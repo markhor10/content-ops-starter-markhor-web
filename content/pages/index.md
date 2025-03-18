@@ -275,17 +275,8 @@ sections:
       - type: FeaturedItem
         title: markhor soap
         subtitle: 250 to only Rs 100
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
+        text: |+
+          buy it now incase if you dont wanna loss the chance 
 
         image:
           type: ImageBlock
