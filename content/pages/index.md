@@ -312,7 +312,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: washing powder
-        subtitle: only RS
+        subtitle: only R
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
