@@ -35,6 +35,13 @@
     },
     "socialLinks": [
         {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/markhorbeauty",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
