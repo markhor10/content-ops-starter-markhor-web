@@ -735,7 +735,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: ''
+      text: m
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
