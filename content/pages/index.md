@@ -146,7 +146,7 @@ sections:
     actions:
       - label: buy now
         altText: ''
-        url: /
+        url: /buy markhor products
         showIcon: false
         icon: arrowRight
         iconPosition: right
