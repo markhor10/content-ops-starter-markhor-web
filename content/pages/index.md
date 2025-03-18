@@ -315,7 +315,10 @@ sections:
         subtitle: only R
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: >-
+            /images/DALL·E 2025-03-17 21.16.35 - A premium product image of
+            'Markhor Washing Powder' in a high-quality, modern package. The
+            packaging is designed with a fresh and clean aesthetic, fea.webp
           altText: Cotton Knit Throws
           elementId: ''
           styles:
