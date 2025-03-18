@@ -274,7 +274,7 @@ sections:
     items:
       - type: FeaturedItem
         title: markhor soap
-        subtitle: $ 88 – $ 176
+        subtitle: 250 to only
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
