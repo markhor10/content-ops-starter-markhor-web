@@ -312,7 +312,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: washing powder
-        subtitle: only R
+        subtitle: only Rs only 1200
         image:
           type: ImageBlock
           url: >-
