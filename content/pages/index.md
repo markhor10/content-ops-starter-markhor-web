@@ -191,7 +191,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - altText: Sanity logo
+      - altText: ''
         type: ImageBlock
         url: >-
           /images/DALL·E 2025-03-17 21.16.35 - A premium product image of
