@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ''
+      label: 'Markhor cosmetics '
       color: text-primary
       type: Badge
     elementId: ''
