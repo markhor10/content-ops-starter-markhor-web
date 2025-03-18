@@ -247,11 +247,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "### **Buy Now – Don’t Miss Your Chance!** \U0001F6D2✨\n\nGet your hands on **Markhor’s premium products** today! Experience **top-quality cleaning and skincare** designed just for you.\n\n\U0001F680 **Limited Stock – Order Now!**\n\n\U0001F31F **Quality You Can Trust**\n\n**Don’t wait – grab yours before it’s gone!** \U0001F525\n\n\n\n"
     badge:
       label: ''
       color: text-primary
