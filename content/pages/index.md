@@ -412,7 +412,7 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: ''
+      - label: click
         url: /
         icon: arrowRight
         iconPosition: right
