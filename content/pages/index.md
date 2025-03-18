@@ -274,7 +274,7 @@ sections:
     items:
       - type: FeaturedItem
         title: markhor soap
-        subtitle: 250 to only R
+        subtitle: 250 to only Rs 100
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
