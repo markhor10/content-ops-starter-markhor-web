@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "business ",
-                "altText": "careers page",
+                "altText": "",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
